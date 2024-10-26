@@ -1,0 +1,5 @@
+this is line one added my master branch
+
+this line is added in branch-1
+
+this line is added in branch-2
